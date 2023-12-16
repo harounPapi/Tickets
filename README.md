@@ -37,12 +37,11 @@ This Streamlit application is designed to analyze and visualize ticketing data. 
 #### Running the Application
 
 1. Ensure Python and Streamlit are installed.
-2. Place the code in a Python file (e.g., `app.py`).
-3. Run the application using `streamlit run app.py`.
+2. Place the code in a Python file (e.g., `tickets.py`).
+3. Run the application using `streamlit run tickets.py`.
 
 #### Updating the Requirements
 
 - If additional libraries are used, add them to `requirements.txt`.
 - Use `pip freeze > requirements.txt` to automatically generate the file with current environment package versions.
 
-This documentation provides a basic understanding of the application's structure and functionalities. Users can modify the code based on their specific requirements, extending or altering features as needed.
